@@ -1,0 +1,4 @@
+fastapi
+beautifulsoup4
+lxml
+uvicorn 
